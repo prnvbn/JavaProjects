@@ -1,2 +1,2 @@
 # JavaProjects
-A bunch of first year projects
+Java projects during my first year of study
